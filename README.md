@@ -22,3 +22,5 @@ issue-101 is fixed
 2 hang
 
 3 hang
+
+4 hang
