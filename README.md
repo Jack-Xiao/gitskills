@@ -18,9 +18,3 @@ Git is free software ...”
 issue-101 is fixed
 
 1 hang 
-
-2 hang
-
-3 hang
-
-4 hang
